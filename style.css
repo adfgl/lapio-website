@@ -1,1 +1,7 @@
-p { background-color: red; }
+.inner-list { color: orange }
+.outer-list { color: red }
+p {color:  orange }
+h1 { color: blue }
+h2 { color: darkred }
+h3 { color: violet }
+a { color: orange }
